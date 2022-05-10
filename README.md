@@ -1,7 +1,7 @@
 # Portfolio (In Progress)
 
 **About me**
-Short overview about myself plus CV
+Short overview about myself 
 
 **Education**
 
@@ -15,7 +15,7 @@ Short overview about myself plus CV
 * University of Minnesota, USA on Coursera (finished in February 2022) – Human Resources Management Certificate
 * University of Alberta, Canada on Coursera (finished in February 2022) – Software Product Management Certificate
 
-**Courses, Webinars, Meetups**
+**Courses, Webinars, Meetups, Books**
 
 Courses related to the study of testing. This is the place for all the positions that confirm the skills you have acquired - from online courses to bootcamps in training centers.
 
@@ -42,4 +42,13 @@ hards and soft skills ?
 * GitHub
 
 **My list of projects and work**
+
+* QA work examples
+
+
+* PM or Agile work examples
+
+
+* 
+
 
