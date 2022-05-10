@@ -1,23 +1,27 @@
 # Portfolio
 
-# Heading 1
+**About me**
 
 
-# Heading 2
+**Education**
 
 
-Anchored text
-
-* position on the bulleted list
-
-position in the bulleted list
-* indentation in an item on the bulleted list
-
-indent in an item in a bulleted list
-
-**bold**
+**Certifications**
 
 
 
+**Courses**
 
+
+
+**Skills**
+
+
+**Tools and Software**
+
+
+**My work related to QA or testing**
+
+
+**My list of projects**
 
