@@ -1,7 +1,7 @@
 # Portfolio (In Progress)
 
 **About me**
-
+Short overview about myself plus CV
 
 **Education**
 
@@ -22,6 +22,7 @@ Courses related to the study of testing. This is the place for all the positions
 Almost a must-have among the entire list in this portfolio. A CV will not necessarily be the right place to put a list of conferences / webinars you have been to, but the repository discussed is already the most. In your CV you will include the essence, here you will show your commitment to local communities. As in the case of testing groups, you may have something to boast about in this field!
 
 **Skills**
+hards and soft skills ?
 
 •	Communicative 
 •	Problem-solving oriented 
