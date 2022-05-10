@@ -23,9 +23,14 @@ Short overview about myself
 
 * Courses
 
+The Complete 2022 Web Development Bootcamp (in progress)
+The Complete Quality Assurance Course- Learn QA from Scratch (SkillShare)
+QA Manual. Full Course for Beginners 2022 (YouTube)
+Hillel IT School YouTube
 
 * Webinars
 
+Manual Quality Assurance Masterclass (Tekwill)
 
 * Books
 
