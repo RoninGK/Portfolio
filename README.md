@@ -59,12 +59,9 @@ Manual Quality Assurance Masterclass (Tekwill)
 
 **My list of projects and work**
 
-* QA work examples
-•
-•
-•
+* QA example number 1
+* QA example number 2
+* QA example number 3
+* Project example 1
+* Project example 2
 
-* PM or Agile work examples
-•
-•
-•
