@@ -59,9 +59,7 @@ Manual Quality Assurance Masterclass (Tekwill)
 
 **My list of projects and work**
 
-* QA example number 1
-* QA example number 2
-* QA example number 3
+* QA example number 1 [https://imgur.com/a/mK0RQP9] (https://remigiuszbednarczyk.pl)
 * Project example 1
 * Project example 2
 
