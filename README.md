@@ -56,10 +56,6 @@ Manual Quality Assurance Masterclass (Tekwill)
 * Intervals 
 * Brizy Wordpress
 * GitHub
-
-**My list of projects and work**
-
-* QA example number 1 [https://imgur.com/a/mK0RQP9] (https://remigiuszbednarczyk.pl)
-* Project example 1
-* Project example 2
+* Postman
+* Slack
 
