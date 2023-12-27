@@ -1,10 +1,6 @@
 # Portfolio (In Progress)
 
 
-**About me**
-Short overview about myself 
-
-
 **Education**
 
 * Academy of Economic Studies, Chisinau, (September 2017 – July 2020) – Bachelor degree in Business Administration 
@@ -13,28 +9,12 @@ Short overview about myself
 
 **Certifications**
 
+* Tekwill Academy (September 2023 - December 2023) - Manual Quality Assurance
+* LinkedIn Learning (March 2022) - Programming Foundations - Software Testing/QA
 * Google on Coursera (February 2022) – Google Project Management certification
 * Google on Coursera (February 2022) – Google IT Support certification
-* University of Minnesota, USA on Coursera (finished in February 2022) – Human Resources Management Certificate
-* University of Alberta, Canada on Coursera (finished in February 2022) – Software Product Management Certificate
-
-
-**Other stuff - Courses, Webinars, Meetups, Books, Blogs,**
-
-* Courses
-
-<ol>
-  <li>The Complete 2022 Web Development Bootcamp (in progress)</li>
-  <li>The Complete Quality Assurance Course- Learn QA from Scratch (SkillShare)</li>
-  <li>QA Manual. Full Course for Beginners 2022 (YouTube)</li>
-</ol>
-
-
-* Webinars
-
-Manual Quality Assurance Masterclass (Tekwill)
-
-* Books
+* University of Minnesota, USA on Coursera (February 2022) – Human Resources Management Certificate
+* University of Alberta, Canada on Coursera (February 2022) – Software Product Management Certificate
 
 
 **Skills**
@@ -53,7 +33,8 @@ Manual Quality Assurance Masterclass (Tekwill)
 * Microsoft Office Suite / WPS Office / Google Sheets
 * Jira 
 * Bitrix24 
-* Intervals 
+* Intervals
+* Test Rail
 * Brizy Wordpress
 * GitHub
 * Postman
